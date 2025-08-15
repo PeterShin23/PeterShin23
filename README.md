@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is [Peter](https://peter-shin.vercel.app), and I like to make things.
+My name is [Peter](https://www.petershin.dev), and I like to make things.
 
 ## Always learning new things, and currently working on:
 
