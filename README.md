@@ -9,7 +9,7 @@ My name is [Peter](https://www.petershin.dev), and I like to make things.
 3. Talking nicely to it so that it doesn't see me as a threat when it takes over.
 
 ## What I'm currently working on: [lutty.ai](https://lutty.themindria.workers.dev)
-I do a lot of photography and a lot of editing. I'm tired of people charging hella money for LUTs (color grading presets). [lutty.ai](https://lutty.themindria.workers.dev) is currently in development. It's an AI and ML powered LUT generating website. Users will be able to take an image and extract the colors and apply it on their own image. They will also be able to vibe their way to a filter as well as manually adjust for the perfect look that some of these photographers look for (not me though, I'm okay with okay...).
+I do a lot of photography and a lot of editing. I'm tired of people charging hella money for LUTs (color grading presets). [lutty.ai](https://lutty.themindria.workers.dev) is a full stack application currently in development. It's an AI and ML powered LUT generating website. Users will be able to take an image and extract the colors and apply it on their own image. They will also be able to vibe their way to a filter as well as manually adjust for the perfect look that some of these photographers look for (not me though, I'm okay with okay...).
 
 ## Some of my work:
 
