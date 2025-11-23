@@ -13,7 +13,7 @@ I would like to admit that back in college, I wasn't that interested in how AI w
 
 ## Some of my work:
 
-1. [VLM Bounding Box](https://github.com/PeterShin23/vlm-bounding-box) - Training Qwen3-VL-2B-Instruct model to draw bounding box around subject.
+1. [VLM Bounding Box](https://nbviewer.org/github/PeterShin23/vlm-bounding-box/blob/main/notebooks/train_qwen3_refcoco.ipynb) - Training Qwen3-VL-2B-Instruct model to draw bounding box around subject.
 1. [SeatGeek MCP Server](https://github.com/PeterShin23/seatgeek-mcp) - An MCP Server that connects you to the SeatGeek Public Developer API. Helps you find events using tool-enabled LLMs.
 1. [LLM Assistant](https://github.com/PeterShin23/MyAssistant) - A CLI assistant written in Go that anticipates what you need help with and... helps you with them. Even stream the help to a mobile device compatible with Expo.
 2. [No Meal Plan](https://github.com/PeterShin23/food-vision) - A mobile app written in React Native that scans your fridge, identifies ingredients using computer vision, and generates a recipe.
