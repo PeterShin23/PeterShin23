@@ -8,11 +8,12 @@ My name is [Peter](https://www.petershin.dev), and I like to make things.
 2. Building AI applications so that I can control it before it takes over.
 3. Talking nicely to it so that it doesn't see me as a threat when it takes over.
 
-## What I'm currently working on: **lutty.ai**
-I do a lot of photography and a lot of editing. I'm tired of people charging hella money for LUTs (color grading presets). **lutty.ai** is a full stack application currently in development. It's an AI and ML powered LUT generating website. Users will be able to take an image and extract the colors and apply it on their own image. They will also be able to vibe their way to a filter as well as manually adjust for the perfect look that some of these photographers look for (not me though, I'm okay with okay...).
+## What I'm currently working/learning on: **Fine-Tuning LLM with PyTorch**
+I think machine learning is super interesting. I would like to admit that back in college, I wasn't that interested, but now that LLMs are everywhere, I couldn't help but get interested. I've been reading a lot of papers, and the way they work and learn are so brilliant. Makes me appreciate Linear Algebra and Probability a lot more than I did back in college for sure. Check out the first item below! It's me trying to learn PyTorch and fine-tune a Vision Language Model from Alibaba.
 
 ## Some of my work:
 
+1. [VLM Bounding Box](https://github.com/PeterShin23/vlm-bounding-box) - Training Qwen3-VL-2B-Instruct model to draw bounding box around subject.
 1. [SeatGeek MCP Server](https://github.com/PeterShin23/seatgeek-mcp) - An MCP Server that connects you to the SeatGeek Public Developer API. Helps you find events using tool-enabled LLMs.
 1. [LLM Assistant](https://github.com/PeterShin23/MyAssistant) - A CLI assistant written in Go that anticipates what you need help with and... helps you with them. Even stream the help to a mobile device compatible with Expo.
 2. [No Meal Plan](https://github.com/PeterShin23/food-vision) - A mobile app written in React Native that scans your fridge, identifies ingredients using computer vision, and generates a recipe.
