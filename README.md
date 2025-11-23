@@ -9,7 +9,7 @@ My name is [Peter](https://www.petershin.dev), and I like to make things.
 3. Talking nicely to it so that it doesn't see me as a threat when it takes over.
 
 ## What I'm currently working/learning on: **Fine-Tuning LLM with PyTorch**
-I think machine learning is super interesting. I would like to admit that back in college, I wasn't that interested, but now that LLMs are everywhere, I couldn't help but get interested. I've been reading a lot of papers, and the way they work and learn are so brilliant. Makes me appreciate Linear Algebra and Probability a lot more than I did back in college for sure. Check out the first item below! It's me trying to learn PyTorch and fine-tune a Vision Language Model from Alibaba.
+I would like to admit that back in college, I wasn't that interested in how AI works, but now that LLMs are everywhere, I couldn't help but get interested in it. I've been reading a lot of papers, and the way they work and learn are so brilliant and intuitive. Makes me appreciate Linear Algebra and Probability a lot more than I did back in college for sure. Check out the first item below! It's me trying to learn PyTorch and fine-tune a Vision Language Model from Alibaba.
 
 ## Some of my work:
 
