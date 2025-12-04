@@ -8,8 +8,10 @@ My name is [Peter](https://www.petershin.dev), and I like to make things.
 2. Building AI applications so that I can control it before it takes over.
 3. Talking nicely to it so that it doesn't see me as a threat when it takes over.
 
-## What I'm currently working/learning on: **Fine-Tuning LLM with PyTorch**
-I would like to admit that back in college, I wasn't that interested in how AI works, but now that LLMs are everywhere, I couldn't help but get interested in it. I've been reading a lot of papers, and the way they work and learn are so brilliant and intuitive. Makes me appreciate Linear Algebra and Probability a lot more than I did back in college for sure. Check out the first item below! It's me trying to learn PyTorch and fine-tune a Vision Language Model from Alibaba.
+## What I'm currently working on and/or learning: 
+1. Remote Coder, open-source project. For the power users, the grinders, the I-gotta-work-rn kind of people.
+1. Rust because I want to learn systems-level programming without the C++ headache.
+1. Fine-tuning LLMs using PyTorch because AI Engineering is a big interest.
 
 ## Some of my work:
 
