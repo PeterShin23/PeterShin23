@@ -10,7 +10,7 @@ My name is [Peter](https://www.petershin.dev), and I like to make things.
 
 ## What I'm currently working on and/or learning: 
 1. Remote Coder, open-source project. For the power users, the grinders, the I-gotta-work-rn kind of people.
-1. Rust because I want to learn systems-level programming without the C++ headache.
+1. Rust because I want to learn systems-level programming without the C++ headache. [Advent of Code with Python and Rust](https://github.com/PeterShin23/aoc-2025)
 1. Fine-tuning LLMs using PyTorch because AI Engineering is a big interest.
 
 ## Some of my work:
