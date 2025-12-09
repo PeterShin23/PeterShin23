@@ -15,7 +15,7 @@ My name is [Peter](https://www.petershin.dev), and I like to make things.
 
 ## Some of my work:
 
-1. [Remote Coder aka Pocket Intern](https://github.com/PeterShin23/remote-coder) - Slack-first daemon that interacts with local coding agents via Slack threads and makes PRs to GitHub remote repository.
+1. [Remote Coder aka Pocket Intern](https://orcaflow.dev) - Slack-first daemon that interacts with local coding agents via Slack threads and makes PRs to GitHub remote repository.
 1. [VLM Bounding Box](https://nbviewer.org/github/PeterShin23/vlm-bounding-box/blob/main/notebooks/train_qwen3_refcoco.ipynb) - Training Qwen3-VL-2B-Instruct model to draw bounding box around subject.
 1. [SeatGeek MCP Server](https://github.com/PeterShin23/seatgeek-mcp) - An MCP Server that connects you to the SeatGeek Public Developer API. Helps you find events using tool-enabled LLMs.
 1. [LLM Assistant](https://github.com/PeterShin23/MyAssistant) - A CLI assistant written in Go that anticipates what you need help with and... helps you with them. Even stream the help to a mobile device compatible with Expo.
